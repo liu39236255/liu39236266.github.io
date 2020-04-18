@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bd6280f0-9ad1-42eb-aa3f-b5781af4943c" name="lzkj01" url="http://192.168.153.128">
+        <fileTransfer host="192.168.153.128" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="614ee05e-c072-4246-b889-72ba85028e3c" name="lzkj02" url="http://192.168.153.129">
+        <fileTransfer host="192.168.153.129" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="82c7d8c6-14be-4ba8-af03-11903df3ed2f" name="lzkj03" url="http://192.168.153.130">
+        <fileTransfer host="192.168.153.130" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="48bc45c5-a11d-43a2-8a71-7634ea0e8e37" name="lzkj57" url="http://106.75.209.41">
+        <fileTransfer host="106.75.209.41" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
